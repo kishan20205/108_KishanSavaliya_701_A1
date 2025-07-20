@@ -1,0 +1,15 @@
+{
+  "name": "kishan-basic-cal",
+  "version": "1.0.0",
+  "description": "arithmetic operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kishan",
+  "license": "ISC",
+  "dependencies": {
+    "kishan-basic-cal": "^1.0.0"
+  }
+}
+
